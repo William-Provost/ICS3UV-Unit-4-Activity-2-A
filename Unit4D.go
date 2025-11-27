@@ -1,6 +1,6 @@
-// Author: Mr Coxall
+// Author: William Provost
 // Version: 1.0.0
-// Date: 2025-01-01
+// Date: 2025-11-27
 // Fileoverview: This program calculates average.
 
 package main
